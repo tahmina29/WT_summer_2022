@@ -1,0 +1,24 @@
+[
+    {
+        "Name": "Emam Hossain",
+        "Email": "eh.tamim1708@gmail.com",
+        "Username": "emam345",
+        "Password": "23456789",
+        "Phone": "01889484524",
+        "Address": "Chattogram , Chattogram,4320",
+        "Gender": "Male",
+        "DOB": "1999-08-17",
+        "Managment_Type": ",,"
+    },
+    {
+        "Name": "Tahmina Akter",
+        "Email": "Tahmina.ratri5793@gmail.com",
+        "Username": "tahmina29",
+        "Password": "22334455",
+        "Phone": "01630511202",
+        "Address": "Tangail , Tangail,1402",
+        "Gender": "Female",
+        "DOB": "1999-03-23",
+        "Managment_Type": ",,"
+    }
+]
